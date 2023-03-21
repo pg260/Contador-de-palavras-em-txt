@@ -13,7 +13,7 @@ try:
 
         for palavra in texto:
             for letras in palavra:
-                if(letras.isalpha()):
+                if(letras.isalpha() and letras.isascii()):
                     cont += 1
                     break
 
