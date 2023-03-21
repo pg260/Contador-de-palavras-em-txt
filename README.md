@@ -9,3 +9,5 @@ Para facilitar a utilização, o programa foi configurado para ler a palavra sem
 O programa só funciona corretamente se o arquivo de texto que você deseja analisar deve estar na mesma pasta que o código.
 
 Para poder usar o executável abra as pastas no caminho: **\Contador-de-palavras-em-txt\Desafio\dist** e clique no .exe. Também pode ser encontrado um arquivo chamado Teste.txt que pode ser usado de exemplo para testar a funcionalidade do programa.
+
+Feito por Pedro Gustavo.
